@@ -1,4 +1,4 @@
-module github.com/aruadecarvalho/go-grpc-demo
+module github.com/aruadecarvalho/go-grpc
 
 go 1.18
 
